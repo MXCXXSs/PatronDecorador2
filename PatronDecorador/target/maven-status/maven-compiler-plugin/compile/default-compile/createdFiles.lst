@@ -1,0 +1,8 @@
+com\mycompany\patrondecorador\NotificadorWhatsApp.class
+com\mycompany\patrondecorador\iNotificador.class
+com\mycompany\patrondecorador\NotificadorSMS.class
+com\mycompany\patrondecorador\PatronDecorador.class
+com\mycompany\patrondecorador\NotificadorDecorador.class
+com\mycompany\patrondecorador\iPrestamo.class
+com\mycompany\patrondecorador\PrestamoLibro.class
+com\mycompany\patrondecorador\NotificadorEmail.class
